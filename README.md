@@ -1,9 +1,15 @@
 # Uge 36
-## Rækkefølgen skal være:
+## Rækkefølgen 
 CompilerError
+
 CompilerErrorTwo
+
 Escape
+
 MyFirstProgram
+
 Fractions
+
 FirstAsciiArt
+
 VarAndOperators
