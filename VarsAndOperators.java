@@ -32,19 +32,19 @@ class VarsAndOperators {
      *
      * char mystiskeA = '9';
      * char mystiskeB = '8';
-     * System.out.println(mystiskeA + mystiskeB);
-     * System.out.println(mystiskeA + kundeNavn + mystiskeB);
+     * System.out.println(mystiskeA + mystiskeB + ": er resultatet af " + mystiskeA + " + " + mystiskeB);
+     * System.out.println(mystiskeA + " plus " + mystiskeB + " = " +  mystiskeA + mystiskeB);
      *
      * 5)
      * Put nu flg. ind i main-metoden, kompilér og kør programmet.
      *
      * int mystiskeA = 9;
      * int mystiskeB = 8;
-     * System.out.println(mystiskeA + mystiskeB);
-     * System.out.println(mystiskeA + kundeNavn + mystiskeB);
+     * System.out.println(mystiskeA + mystiskeB + ": er resultatet af " + mystiskeA + " + " + mystiskeB);
+     * System.out.println(mystiskeA + " plus " + mystiskeB + " = " +  mystiskeA + mystiskeB);
      * 
      */
-    //TODO:System.out.println("");
+    //TODO:...
 
   }
 }
