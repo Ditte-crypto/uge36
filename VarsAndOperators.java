@@ -46,10 +46,5 @@ class VarsAndOperators {
      */
     //TODO:System.out.println("");
 
-    String kundeNavn = "Kurt Verner";
-    double kiloVaegt = 75.0;
-    double meterHoej = 1.75;
-    double gramVaegt = kiloVaegt * 1000;
-
   }
 }
